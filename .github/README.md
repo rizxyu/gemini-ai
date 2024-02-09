@@ -1,5 +1,8 @@
+### Notes
+> I fixed this hope you guys like it
+ [Group Whatsapp](https://chat.whatsapp.com/JQfqvq7vlvvLM3Pj3w3nnQ)
+# Main
 <picture>
-
   <source media="(prefers-color-scheme: dark)" srcset="../assets/banner@dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="../assets/banner@light.svg">
   <img alt="bard-ai v2 Banner" src="../assets/banner@light.svg">
@@ -169,6 +172,15 @@ Continue to explore full features, including Google Lens integration, with the [
       <a href="https://github.com/RFS-ADRENO">@RFS-ADRENO</a>
       <br>
       TypeScript Developer, Maintainer
+    </td>
+    <td width="20%" align="center" rowspan="2" colspan="2">
+      <a href="https://github.com/rizxyu">
+      <img src="https://images.weserv.nl/?url=github.com/rizxyu.png?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="128">
+      </a>
+      <br>
+      <a href="https://github.com/rizxyu">@Rizky Adi N.</a>
+      <br>
+      Bot Developers, Javascript, Typescript and Maintainer
     </td>
   </tr>
 </table>
