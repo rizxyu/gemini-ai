@@ -120,6 +120,7 @@ Compared to alternative Bard API [`googlebard`](https://github.com/PawanOsman/Go
 
 Copy the cookie labled `__Secure-1PSID` on bard.google.com, and use it in the code here:
 
+ESM:
 ```javascript
 import Bard from "bard-ai";
 
@@ -128,6 +129,14 @@ let myBard = new Bard(COOKIE);
 console.log(await myBard.ask("Hello, world!"));
 ```
 
+CJS
+```javascript
+const Bard = await (await import("bard-ai")
+
+let myBard = new Bard(COOKIE);
+
+console.log(await myBard.ask("Hello, world!"));
+```
 Continue to explore full features, including Google Lens integration, with the [docs](https://bard-ai-docs.vercel.app/).
 
 <h2 align="center">Contributors</h2>
