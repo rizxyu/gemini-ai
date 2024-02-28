@@ -1,11 +1,8 @@
-### Notes
-> I fixed this hope you guys like it
- [Group Whatsapp](https://chat.whatsapp.com/JQfqvq7vlvvLM3Pj3w3nnQ)
-# Main
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="../assets/banner@dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="../assets/banner@light.svg">
-  <img alt="bard-ai v2 Banner" src="../assets/banner@light.svg">
+  <img alt="gemini Banner" src="../assets/banner@light.svg">
 </picture>
 
 <p align="center">
@@ -18,8 +15,8 @@
   <a aria-label="bard-ai Size" href="https://www.npmjs.com/package/bard-ai">
     <img alt="" src="https://img.shields.io/bundlephobia/minzip/bard-ai?style=for-the-badge&color=8B77CD">
   </a>
-  <a aria-label="Join the community on Slack" href="https://join.slack.com/t/bard-aiworkspace/shared_invite/zt-1y1g3570m-Hx_N3IShMYBMkR6jpRyRjw">
-    <img alt="" src="https://img.shields.io/badge/Slack-339AE0?style=for-the-badge&logo=slack&logoColor=white&label=Community">
+  <a aria-label="Join the community on Whatsapp" href="https://chat.whatsapp.com/JQfqvq7vlvvLM3Pj3w3nnQ">
+    <img alt="" src="https://img.shields.io/badge/Whatsapp-339AE0?style=for-the-badge&logo=whatsapp&logoColor=white&label=Community">
   </a>
 </p>
 <p align="center">
