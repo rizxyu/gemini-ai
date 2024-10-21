@@ -183,7 +183,7 @@ class Bard {
                 imageBuffer
             );
             messageStruct[0].push(0, null, [
-                [[imageLocation, 1], "bard-ai_upload"],
+                [[imageLocation, 1, null, "image/jpeg"], "bard-ai_upload"],
             ]);
         }
 
